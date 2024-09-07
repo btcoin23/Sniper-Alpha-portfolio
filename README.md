@@ -6,8 +6,8 @@ It also tracks marketcap using bitquery and if it hits the condition, it will bu
 Then do auto-sell according to the marketcap of that token.
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/c7fe7344-e831-454b-a445-d113ea5ada9c)
+![image](https://github.com/user-attachments/assets/2f9c7044-7d48-4ffa-a669-660097a57ba1)
 
-![image](https://github.com/user-attachments/assets/2d6c8536-cdf9-40a1-b7d2-9360b53cd7ef)
 
 
 ## Main features
