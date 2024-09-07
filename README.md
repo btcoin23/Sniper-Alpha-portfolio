@@ -4,6 +4,11 @@ This project is for sniping tokens on Raydium, Moonshot.
 It tracks the migration transaction on Raydium from Pump.fun, Moonshot, and send buy transaction as soon as it's tracked.
 It also tracks marketcap using bitquery and if it hits the condition, it will buy & send a message to telegram.
 Then do auto-sell according to the marketcap of that token.
+## Screenshots
+![image](https://github.com/user-attachments/assets/c7fe7344-e831-454b-a445-d113ea5ada9c)
+
+![image](https://github.com/user-attachments/assets/2d6c8536-cdf9-40a1-b7d2-9360b53cd7ef)
+
 
 ## Main features
 
